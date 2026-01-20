@@ -1,0 +1,2491 @@
+{
+    "config": {
+        "period_duration": 35,
+        "period_overtime": 0,
+        "recess_times": [
+            {
+                "name": "Recess",
+                "start": "11:00",
+                "duration": 30
+            }
+        ],
+        "teaching_hours": 5,
+        "school_timing": {
+            "start": "07:30",
+            "end": "12:40",
+            "duration": 310
+        },
+        "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ]
+    },
+    "subjects": [
+        "maths",
+        "english",
+        "science",
+        "sanskrit",
+        "hindi",
+        "socail studies",
+        "gk"
+    ],
+    "standards": [
+        "1",
+        "2",
+        "3"
+    ],
+    "sections": [
+        "1-a",
+        "1-b",
+        "2-a",
+        "2-b",
+        "3-a",
+        "3-b"
+    ],
+    "teachers": [
+        "riya",
+        "priya",
+        "siya",
+        "reema",
+        "krima",
+        "seema",
+        "seven",
+        "eight",
+        "nine",
+        "ten",
+        "eleven",
+        "tweleve",
+        "thirteen",
+        "fourteen"
+    ],
+    "subject_teachers": {
+        "maths": [
+            "riya",
+            "priya"
+        ],
+        "english": [
+            "siya",
+            "reema"
+        ],
+        "science": [
+            "krima",
+            "seema"
+        ],
+        "sanskrit": [
+            "seven",
+            "eight"
+        ],
+        "hindi": [
+            "nine",
+            "ten"
+        ],
+        "socail studies": [
+            "eleven",
+            "tweleve"
+        ],
+        "gk": [
+            "thirteen",
+            "fourteen"
+        ]
+    },
+    "standard_subjects": {
+        "1": [
+            "maths",
+            "english",
+            "science",
+            "sanskrit",
+            "hindi",
+            "socail studies",
+            "gk"
+        ],
+        "2": [
+            "maths",
+            "english",
+            "science",
+            "sanskrit",
+            "hindi",
+            "socail studies",
+            "gk"
+        ],
+        "3": [
+            "maths",
+            "english",
+            "science",
+            "sanskrit",
+            "hindi",
+            "socail studies",
+            "gk"
+        ]
+    },
+    "timetable_data": {
+        "1-a": {
+            "Monday": [
+                {
+                    "period": "P1",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Tuesday": [
+                {
+                    "period": "P1",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Wednesday": [
+                {
+                    "period": "P1",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Thursday": [
+                {
+                    "period": "P1",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Friday": [
+                {
+                    "period": "P1",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Saturday": [
+                {
+                    "period": "P1",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ]
+        },
+        "1-b": {
+            "Monday": [
+                {
+                    "period": "P1",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Tuesday": [
+                {
+                    "period": "P1",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Wednesday": [
+                {
+                    "period": "P1",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Thursday": [
+                {
+                    "period": "P1",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Friday": [
+                {
+                    "period": "P1",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Saturday": [
+                {
+                    "period": "P1",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ]
+        },
+        "2-a": {
+            "Monday": [
+                {
+                    "period": "P1",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Tuesday": [
+                {
+                    "period": "P1",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Wednesday": [
+                {
+                    "period": "P1",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Thursday": [
+                {
+                    "period": "P1",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Friday": [
+                {
+                    "period": "P1",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Saturday": [
+                {
+                    "period": "P1",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ]
+        },
+        "2-b": {
+            "Monday": [
+                {
+                    "period": "P1",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Tuesday": [
+                {
+                    "period": "P1",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Wednesday": [
+                {
+                    "period": "P1",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Thursday": [
+                {
+                    "period": "P1",
+                    "subject": "maths",
+                    "teacher": "priya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Friday": [
+                {
+                    "period": "P1",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Saturday": [
+                {
+                    "period": "P1",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "maths",
+                    "teacher": "riya",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ]
+        },
+        "3-a": {
+            "Monday": [
+                {
+                    "period": "P1",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Tuesday": [
+                {
+                    "period": "P1",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Wednesday": [
+                {
+                    "period": "P1",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Thursday": [
+                {
+                    "period": "P1",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Friday": [
+                {
+                    "period": "P1",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Saturday": [
+                {
+                    "period": "P1",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ]
+        },
+        "3-b": {
+            "Monday": [
+                {
+                    "period": "P1",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Tuesday": [
+                {
+                    "period": "P1",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Wednesday": [
+                {
+                    "period": "P1",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "reema",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "socail studies",
+                    "teacher": "eleven",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "hindi",
+                    "teacher": "ten",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Thursday": [
+                {
+                    "period": "P1",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "socail studies",
+                    "teacher": "tweleve",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "gk",
+                    "teacher": "fourteen",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Friday": [
+                {
+                    "period": "P1",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "sanskrit",
+                    "teacher": "eight",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ],
+            "Saturday": [
+                {
+                    "period": "P1",
+                    "subject": "hindi",
+                    "teacher": "nine",
+                    "time": "07:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P2",
+                    "subject": "english",
+                    "teacher": "siya",
+                    "time": "08:05",
+                    "duration": 35
+                },
+                {
+                    "period": "P3",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "08:40",
+                    "duration": 35
+                },
+                {
+                    "period": "P4",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "09:15",
+                    "duration": 35
+                },
+                {
+                    "period": "P5",
+                    "subject": "gk",
+                    "teacher": "thirteen",
+                    "time": "09:50",
+                    "duration": 35
+                },
+                {
+                    "period": "P6",
+                    "subject": "science",
+                    "teacher": "krima",
+                    "time": "10:25",
+                    "duration": 35
+                },
+                {
+                    "period": "R",
+                    "subject": "Recess",
+                    "teacher": "",
+                    "time": "11:00",
+                    "duration": 30
+                },
+                {
+                    "period": "P7",
+                    "subject": "science",
+                    "teacher": "seema",
+                    "time": "11:30",
+                    "duration": 35
+                },
+                {
+                    "period": "P8",
+                    "subject": "sanskrit",
+                    "teacher": "seven",
+                    "time": "12:05",
+                    "duration": 35
+                }
+            ]
+        }
+    },
+    "school_timing": {
+        "start": "07:30",
+        "end": "12:40",
+        "duration": 310
+    },
+    "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ]
+}
