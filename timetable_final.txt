@@ -1,0 +1,329 @@
+SCHOOL TIMETABLE
+================================================================================
+Generated on: 2026-01-13 17:25:02
+================================================================================
+
+
+================================================================================
+Grade 1 - Section Grade 1.A
+================================================================================
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Day/Period   | P1                 | P2                 | P3                 | P4             | P5                 | P6             | RECESS        | P7                 | P8             |
+|              | 07:30-08:05        | 08:05-08:40        | 08:40-09:15        | 09:15-09:50    | 09:50-10:25        | 10:25-11:00    | 11:00-11:30   | 11:30-12:05        | 12:05-12:40    |
++==============+====================+====================+====================+================+====================+================+===============+====================+================+
+| Monday       | Math               | Science            | Math               | Spanish        | Science            | Spanish        | RECESS        | English            | Social Studies |
+|              | Mr. Smith          | Mrs. Johnson       | Mr. Smith          | Mrs. Walker    | Mrs. Johnson       | Mrs. Walker    |               | Mr. Davis          | Mr. Young      |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Tuesday      | Science            | Math               | Science            | Social Studies | History            | Geography      | RECESS        | Math               | Social Studies |
+|              | Mrs. Johnson       | Mr. Smith          | Mrs. Johnson       | Mrs. Hill      | Mrs. Anderson      | Mr. Wilson     |               | Mr. Smith          | Mrs. Hill      |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Wednesday    | English            | History            | English            | Geography      | Art                | Music          | RECESS        | History            | Geography      |
+|              | Mr. Davis          | Mrs. Anderson      | Mr. Davis          | Mr. Wilson     | Mrs. Martinez      | Mr. Thompson   |               | Mrs. Anderson      | Mr. Wilson     |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Thursday     | History            | English            | History            | Chemistry      | Physical Education | Chemistry      | RECESS        | Physical Education | Music          |
+|              | Mrs. Anderson      | Mr. Davis          | Mrs. Anderson      | Mrs. Lee       | Mrs. Garcia        | Mrs. Lee       |               | Mrs. Garcia        | Mr. Thompson   |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Friday       | Art                | Physical Education | Art                | Literature     | Physics            | Literature     | RECESS        | Physics            | Social Studies |
+|              | Mrs. Martinez      | Mrs. Garcia        | Mrs. Martinez      | Mr. Lewis      | Mr. White          | Mr. Lewis      |               | Mr. White          | Mr. Young      |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Saturday     | Physical Education | Art                | Physical Education | Social Studies | Biology            | Social Studies | RECESS        | Biology            | Literature     |
+|              | Mrs. Garcia        | Mrs. Martinez      | Mrs. Garcia        | Mr. Young      | Mr. Clark          | Mr. Young      |               | Mr. Clark          | Mr. Lewis      |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+
+
+================================================================================
+Grade 1 - Section Grade 1.B
+================================================================================
++--------------+------------------+------------------+------------------+--------------------+------------------+--------------------+---------------+------------------+--------------------+
+| Day/Period   | P1               | P2               | P3               | P4                 | P5               | P6                 | RECESS        | P7               | P8                 |
+|              | 07:30-08:05      | 08:05-08:40      | 08:40-09:15      | 09:15-09:50        | 09:50-10:25      | 10:25-11:00        | 11:00-11:30   | 11:30-12:05      | 12:05-12:40        |
++==============+==================+==================+==================+====================+==================+====================+===============+==================+====================+
+| Monday       | Physics          | Biology          | Physics          | Math               | Computer Science | Math               | RECESS        | Computer Science | Science            |
+|              | Mr. White        | Mr. Clark        | Mr. White        | Mr. Smith          | Mrs. Hall        | Mr. Smith          |               | Mrs. Hall        | Mrs. Johnson       |
++--------------+------------------+------------------+------------------+--------------------+------------------+--------------------+---------------+------------------+--------------------+
+| Tuesday      | Biology          | Physics          | Biology          | Science            | Spanish          | Science            | RECESS        | Spanish          | Math               |
+|              | Mr. Clark        | Mr. White        | Mr. Clark        | Mrs. Johnson       | Mrs. Walker      | Mrs. Johnson       |               | Mrs. Walker      | Mr. Smith          |
++--------------+------------------+------------------+------------------+--------------------+------------------+--------------------+---------------+------------------+--------------------+
+| Wednesday    | Computer Science | Spanish          | Computer Science | English            | Social Studies   | English            | RECESS        | Social Studies   | History            |
+|              | Mrs. Hall        | Mrs. Walker      | Mrs. Hall        | Mr. Davis          | Mrs. Hill        | Mr. Davis          |               | Mrs. Hill        | Mrs. Anderson      |
++--------------+------------------+------------------+------------------+--------------------+------------------+--------------------+---------------+------------------+--------------------+
+| Thursday     | Spanish          | Computer Science | Spanish          | History            | Geography        | History            | RECESS        | Geography        | English            |
+|              | Mrs. Walker      | Mrs. Hall        | Mrs. Walker      | Mrs. Anderson      | Mr. Wilson       | Mrs. Anderson      |               | Mr. Wilson       | Mr. Davis          |
++--------------+------------------+------------------+------------------+--------------------+------------------+--------------------+---------------+------------------+--------------------+
+| Friday       | Social Studies   | Math             | Social Studies   | Art                | Music            | Art                | RECESS        | Music            | Physical Education |
+|              | Mrs. Hill        | Mr. Smith        | Mrs. Hill        | Mrs. Martinez      | Mr. Thompson     | Mrs. Martinez      |               | Mr. Thompson     | Mrs. Garcia        |
++--------------+------------------+------------------+------------------+--------------------+------------------+--------------------+---------------+------------------+--------------------+
+| Saturday     | Math             | Social Studies   | Chemistry        | Physical Education | Chemistry        | Physical Education | RECESS        | Literature       | Art                |
+|              | Mr. Smith        | Mrs. Hill        | Mrs. Lee         | Mrs. Garcia        | Mrs. Lee         | Mrs. Garcia        |               | Mr. Lewis        | Mrs. Martinez      |
++--------------+------------------+------------------+------------------+--------------------+------------------+--------------------+---------------+------------------+--------------------+
+
+
+================================================================================
+Grade 1 - Section Grade 1.C
+================================================================================
++--------------+--------------------+--------------------+----------------+------------------+----------------+------------------+---------------+----------------+------------------+
+| Day/Period   | P1                 | P2                 | P3             | P4               | P5             | P6               | RECESS        | P7             | P8               |
+|              | 07:30-08:05        | 08:05-08:40        | 08:40-09:15    | 09:15-09:50      | 09:50-10:25    | 10:25-11:00      | 11:00-11:30   | 11:30-12:05    | 12:05-12:40      |
++==============+====================+====================+================+==================+================+==================+===============+================+==================+
+| Monday       | Science            | English            | Literature     | Physics          | Literature     | Physics          | RECESS        | Chemistry      | Biology          |
+|              | Mrs. Johnson       | Mr. Davis          | Mr. Lewis      | Mr. White        | Mr. Lewis      | Mr. White        |               | Mrs. Lee       | Mr. Clark        |
++--------------+--------------------+--------------------+----------------+------------------+----------------+------------------+---------------+----------------+------------------+
+| Tuesday      | English            | Science            | Social Studies | Biology          | Social Studies | Biology          | RECESS        | Science        | Physics          |
+|              | Mr. Davis          | Mrs. Johnson       | Mr. Young      | Mr. Clark        | Mr. Young      | Mr. Clark        |               | Mrs. Johnson   | Mr. White        |
++--------------+--------------------+--------------------+----------------+------------------+----------------+------------------+---------------+----------------+------------------+
+| Wednesday    | History            | Art                | Math           | Computer Science | Math           | Computer Science | RECESS        | Social Studies | Spanish          |
+|              | Mrs. Anderson      | Mrs. Martinez      | Mr. Smith      | Mrs. Hall        | Mr. Smith      | Mrs. Hall        |               | Mr. Young      | Mrs. Walker      |
++--------------+--------------------+--------------------+----------------+------------------+----------------+------------------+---------------+----------------+------------------+
+| Thursday     | Art                | History            | Science        | Spanish          | Science        | Spanish          | RECESS        | Math           | Computer Science |
+|              | Mrs. Martinez      | Mrs. Anderson      | Mrs. Johnson   | Mrs. Walker      | Mrs. Johnson   | Mrs. Walker      |               | Mr. Smith      | Mrs. Hall        |
++--------------+--------------------+--------------------+----------------+------------------+----------------+------------------+---------------+----------------+------------------+
+| Friday       | Physical Education | Physics            | English        | Social Studies   | English        | Social Studies   | RECESS        | History        | Geography        |
+|              | Mrs. Garcia        | Mr. White          | Mr. Davis      | Mrs. Hill        | Mr. Davis      | Mrs. Hill        |               | Mrs. Anderson  | Mr. Wilson       |
++--------------+--------------------+--------------------+----------------+------------------+----------------+------------------+---------------+----------------+------------------+
+| Saturday     | Physics            | Physical Education | History        | Geography        | History        | Geography        | RECESS        | English        | Social Studies   |
+|              | Mr. White          | Mrs. Garcia        | Mrs. Anderson  | Mr. Wilson       | Mrs. Anderson  | Mr. Wilson       |               | Mr. Davis      | Mrs. Hill        |
++--------------+--------------------+--------------------+----------------+------------------+----------------+------------------+---------------+----------------+------------------+
+
+
+================================================================================
+Grade 2 - Section Grade 2.A
+================================================================================
++--------------+------------------+------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Day/Period   | P1               | P2               | P3                 | P4             | P5                 | P6             | RECESS        | P7                 | P8             |
+|              | 07:30-08:05      | 08:05-08:40      | 08:40-09:15        | 09:15-09:50    | 09:50-10:25        | 10:25-11:00    | 11:00-11:30   | 11:30-12:05        | 12:05-12:40    |
++==============+==================+==================+====================+================+====================+================+===============+====================+================+
+| Monday       | Biology          | Computer Science | Art                | Music          | Art                | Music          | RECESS        | Physical Education | Chemistry      |
+|              | Mr. Clark        | Mrs. Hall        | Mrs. Martinez      | Mr. Thompson   | Mrs. Martinez      | Mr. Thompson   |               | Mrs. Garcia        | Mrs. Lee       |
++--------------+------------------+------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Tuesday      | Computer Science | Biology          | Physical Education | Chemistry      | Physical Education | Chemistry      | RECESS        | Art                | Music          |
+|              | Mrs. Hall        | Mr. Clark        | Mrs. Garcia        | Mrs. Lee       | Mrs. Garcia        | Mrs. Lee       |               | Mrs. Martinez      | Mr. Thompson   |
++--------------+------------------+------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Wednesday    | Spanish          | Social Studies   | Physics            | Literature     | Physics            | Literature     | RECESS        | Biology            | Social Studies |
+|              | Mrs. Walker      | Mrs. Hill        | Mr. White          | Mr. Lewis      | Mr. White          | Mr. Lewis      |               | Mr. Clark          | Mr. Young      |
++--------------+------------------+------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Thursday     | Social Studies   | Spanish          | Biology            | Social Studies | Biology            | Math           | RECESS        | Physics            | Literature     |
+|              | Mrs. Hill        | Mrs. Walker      | Mr. Clark          | Mr. Young      | Mr. Clark          | Mr. Smith      |               | Mr. White          | Mr. Lewis      |
++--------------+------------------+------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Friday       | Math             | Science          | Computer Science   | Math           | Computer Science   | Social Studies | RECESS        | Spanish            | Science        |
+|              | Mr. Smith        | Mrs. Johnson     | Mrs. Hall          | Mr. Smith      | Mrs. Hall          | Mr. Young      |               | Mrs. Walker        | Mrs. Johnson   |
++--------------+------------------+------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+| Saturday     | Science          | Math             | Spanish            | Science        | Spanish            | English        | RECESS        | Computer Science   | Math           |
+|              | Mrs. Johnson     | Mr. Smith        | Mrs. Walker        | Mrs. Johnson   | Mrs. Walker        | Mr. Davis      |               | Mrs. Hall          | Mr. Smith      |
++--------------+------------------+------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+----------------+
+
+
+================================================================================
+Grade 2 - Section Grade 2.B
+================================================================================
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+----------------+--------------------+
+| Day/Period   | P1                 | P2                 | P3             | P4                 | P5             | P6                 | RECESS        | P7             | P8                 |
+|              | 07:30-08:05        | 08:05-08:40        | 08:40-09:15    | 09:15-09:50        | 09:50-10:25    | 10:25-11:00        | 11:00-11:30   | 11:30-12:05    | 12:05-12:40        |
++==============+====================+====================+================+====================+================+====================+===============+================+====================+
+| Monday       | English            | History            | Social Studies | English            | Social Studies | Science            | RECESS        | Geography      | History            |
+|              | Mr. Davis          | Mrs. Anderson      | Mrs. Hill      | Mr. Davis          | Mrs. Hill      | Mrs. Johnson       |               | Mr. Wilson     | Mrs. Anderson      |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+----------------+--------------------+
+| Tuesday      | History            | English            | Geography      | History            | Geography      | Art                | RECESS        | Social Studies | English            |
+|              | Mrs. Anderson      | Mr. Davis          | Mr. Wilson     | Mrs. Anderson      | Mr. Wilson     | Mrs. Martinez      |               | Mrs. Hill      | Mr. Davis          |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+----------------+--------------------+
+| Wednesday    | Art                | Physical Education | Music          | Art                | Music          | History            | RECESS        | Chemistry      | Physical Education |
+|              | Mrs. Martinez      | Mrs. Garcia        | Mr. Thompson   | Mrs. Martinez      | Mr. Thompson   | Mrs. Anderson      |               | Mrs. Lee       | Mrs. Garcia        |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+----------------+--------------------+
+| Thursday     | Physical Education | Art                | Chemistry      | Physical Education | Chemistry      | Physics            | RECESS        | Music          | Art                |
+|              | Mrs. Garcia        | Mrs. Martinez      | Mrs. Lee       | Mrs. Garcia        | Mrs. Lee       | Mr. White          |               | Mr. Thompson   | Mrs. Martinez      |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+----------------+--------------------+
+| Friday       | Physics            | Biology            | Literature     | Physics            | Literature     | Physical Education | RECESS        | Social Studies | Biology            |
+|              | Mr. White          | Mr. Clark          | Mr. Lewis      | Mr. White          | Mr. Lewis      | Mrs. Garcia        |               | Mr. Young      | Mr. Clark          |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+----------------+--------------------+
+| Saturday     | Biology            | Physics            | Social Studies | Biology            | Social Studies | Computer Science   | RECESS        | Math           | Physics            |
+|              | Mr. Clark          | Mr. White          | Mr. Young      | Mr. Clark          | Mr. Young      | Mrs. Hall          |               | Mr. Smith      | Mr. White          |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+----------------+--------------------+
+
+
+================================================================================
+Grade 2 - Section Grade 2.C
+================================================================================
++--------------+------------------+------------------+--------------------+------------------+--------------------+----------------+---------------+--------------------+------------------+
+| Day/Period   | P1               | P2               | P3                 | P4               | P5                 | P6             | RECESS        | P7                 | P8               |
+|              | 07:30-08:05      | 08:05-08:40      | 08:40-09:15        | 09:15-09:50      | 09:50-10:25        | 10:25-11:00    | 11:00-11:30   | 11:30-12:05        | 12:05-12:40      |
++==============+==================+==================+====================+==================+====================+================+===============+====================+==================+
+| Monday       | Computer Science | Spanish          | Science            | Computer Science | Math               | Biology        | RECESS        | Literature         | Spanish          |
+|              | Mrs. Hall        | Mrs. Walker      | Mrs. Johnson       | Mrs. Hall        | Mr. Smith          | Mr. Clark      |               | Mr. Lewis          | Mrs. Walker      |
++--------------+------------------+------------------+--------------------+------------------+--------------------+----------------+---------------+--------------------+------------------+
+| Tuesday      | Spanish          | Computer Science | Math               | Spanish          | Science            | Social Studies | RECESS        | English            | Computer Science |
+|              | Mrs. Walker      | Mrs. Hall        | Mr. Smith          | Mrs. Walker      | Mrs. Johnson       | Mrs. Hill      |               | Mr. Davis          | Mrs. Hall        |
++--------------+------------------+------------------+--------------------+------------------+--------------------+----------------+---------------+--------------------+------------------+
+| Wednesday    | Social Studies   | Math             | History            | Social Studies   | English            | Spanish        | RECESS        | Science            | Music            |
+|              | Mrs. Hill        | Mr. Smith        | Mrs. Anderson      | Mrs. Hill        | Mr. Davis          | Mrs. Walker    |               | Mrs. Johnson       | Mr. Thompson     |
++--------------+------------------+------------------+--------------------+------------------+--------------------+----------------+---------------+--------------------+------------------+
+| Thursday     | Math             | Social Studies   | English            | Geography        | History            | Geography      | RECESS        | History            | Social Studies   |
+|              | Mr. Smith        | Mrs. Hill        | Mr. Davis          | Mr. Wilson       | Mrs. Anderson      | Mr. Wilson     |               | Mrs. Anderson      | Mrs. Hill        |
++--------------+------------------+------------------+--------------------+------------------+--------------------+----------------+---------------+--------------------+------------------+
+| Friday       | Science          | English          | Physical Education | Music            | Art                | Music          | RECESS        | Art                | Chemistry        |
+|              | Mrs. Johnson     | Mr. Davis        | Mrs. Garcia        | Mr. Thompson     | Mrs. Martinez      | Mr. Thompson   |               | Mrs. Martinez      | Mrs. Lee         |
++--------------+------------------+------------------+--------------------+------------------+--------------------+----------------+---------------+--------------------+------------------+
+| Saturday     | English          | Science          | Art                | Chemistry        | Physical Education | Chemistry      | RECESS        | Physical Education | Geography        |
+|              | Mr. Davis        | Mrs. Johnson     | Mrs. Martinez      | Mrs. Lee         | Mrs. Garcia        | Mrs. Lee       |               | Mrs. Garcia        | Mr. Wilson       |
++--------------+------------------+------------------+--------------------+------------------+--------------------+----------------+---------------+--------------------+------------------+
+
+
+================================================================================
+Grade 3 - Section Grade 3.A
+================================================================================
++--------------+--------------------+--------------------+------------------+----------------+------------------+----------------+---------------+------------------+--------------------+
+| Day/Period   | P1                 | P2                 | P3               | P4             | P5               | P6             | RECESS        | P7               | P8                 |
+|              | 07:30-08:05        | 08:05-08:40        | 08:40-09:15      | 09:15-09:50    | 09:50-10:25      | 10:25-11:00    | 11:00-11:30   | 11:30-12:05      | 12:05-12:40        |
++==============+====================+====================+==================+================+==================+================+===============+==================+====================+
+| Monday       | History            | Art                | Biology          | Literature     | Physics          | Literature     | RECESS        | Physics          | Spanish            |
+|              | Mrs. Anderson      | Mrs. Martinez      | Mr. Clark        | Mr. Lewis      | Mr. White        | Mr. Lewis      |               | Mr. White        | Mr. Lewis          |
++--------------+--------------------+--------------------+------------------+----------------+------------------+----------------+---------------+------------------+--------------------+
+| Tuesday      | Art                | History            | Physics          | Social Studies | Biology          | Social Studies | RECESS        | Biology          | Science            |
+|              | Mrs. Martinez      | Mrs. Anderson      | Mr. White        | Mr. Young      | Mr. Clark        | Mr. Young      |               | Mr. Clark        | Mrs. Johnson       |
++--------------+--------------------+--------------------+------------------+----------------+------------------+----------------+---------------+------------------+--------------------+
+| Wednesday    | Physical Education | Physics            | Spanish          | Math           | Computer Science | Math           | RECESS        | Computer Science | English            |
+|              | Mrs. Garcia        | Mr. White          | Mrs. Walker      | Mr. Smith      | Mrs. Hall        | Mr. Smith      |               | Mrs. Hall        | Mr. Davis          |
++--------------+--------------------+--------------------+------------------+----------------+------------------+----------------+---------------+------------------+--------------------+
+| Thursday     | Physics            | Physical Education | Computer Science | Science        | Spanish          | Science        | RECESS        | Spanish          | Social Studies     |
+|              | Mr. White          | Mrs. Garcia        | Mrs. Hall        | Mrs. Johnson   | Mrs. Walker      | Mrs. Johnson   |               | Mrs. Walker      | Mr. Young          |
++--------------+--------------------+--------------------+------------------+----------------+------------------+----------------+---------------+------------------+--------------------+
+| Friday       | Biology            | Computer Science   | Geography        | English        | Social Studies   | English        | RECESS        | Social Studies   | Math               |
+|              | Mr. Clark          | Mrs. Hall          | Mr. Wilson       | Mr. Davis      | Mrs. Hill        | Mr. Davis      |               | Mrs. Hill        | Mr. Smith          |
++--------------+--------------------+--------------------+------------------+----------------+------------------+----------------+---------------+------------------+--------------------+
+| Saturday     | Computer Science   | Biology            | Social Studies   | History        | Geography        | History        | RECESS        | Geography        | Physical Education |
+|              | Mrs. Hall          | Mr. Clark          | Mrs. Hill        | Mrs. Anderson  | Mr. Wilson       | Mrs. Anderson  |               | Mr. Wilson       | Mrs. Garcia        |
++--------------+--------------------+--------------------+------------------+----------------+------------------+----------------+---------------+------------------+--------------------+
+
+
+================================================================================
+Grade 3 - Section Grade 3.B
+================================================================================
++--------------+----------------+----------------+----------------+--------------------+----------------+--------------------+---------------+----------------+----------------+
+| Day/Period   | P1             | P2             | P3             | P4                 | P5             | P6                 | RECESS        | P7             | P8             |
+|              | 07:30-08:05    | 08:05-08:40    | 08:40-09:15    | 09:15-09:50        | 09:50-10:25    | 10:25-11:00        | 11:00-11:30   | 11:30-12:05    | 12:05-12:40    |
++==============+================+================+================+====================+================+====================+===============+================+================+
+| Monday       | Spanish        | Social Studies | Music          | Art                | Music          | Art                | RECESS        | Social Studies | Physics        |
+|              | Mrs. Walker    | Mrs. Hill      | Mr. Thompson   | Mrs. Martinez      | Mr. Thompson   | Mrs. Martinez      |               | Mr. Young      | Mr. White      |
++--------------+----------------+----------------+----------------+--------------------+----------------+--------------------+---------------+----------------+----------------+
+| Tuesday      | Social Studies | Spanish        | Chemistry      | Physical Education | Chemistry      | Physical Education | RECESS        | Music          | History        |
+|              | Mrs. Hill      | Mrs. Walker    | Mrs. Lee       | Mrs. Garcia        | Mrs. Lee       | Mrs. Garcia        |               | Mr. Thompson   | Mrs. Anderson  |
++--------------+----------------+----------------+----------------+--------------------+----------------+--------------------+---------------+----------------+----------------+
+| Wednesday    | Math           | Science        | Literature     | Physics            | Literature     | Physics            | RECESS        | Spanish        | Art            |
+|              | Mr. Smith      | Mrs. Johnson   | Mr. Lewis      | Mr. White          | Mr. Lewis      | Mr. White          |               | Mr. Lewis      | Mrs. Martinez  |
++--------------+----------------+----------------+----------------+--------------------+----------------+--------------------+---------------+----------------+----------------+
+| Thursday     | Science        | Math           | Social Studies | Biology            | Social Studies | Biology            | RECESS        | Chemistry      | Spanish        |
+|              | Mrs. Johnson   | Mr. Smith      | Mr. Young      | Mr. Clark          | Mr. Young      | Mr. Clark          |               | Mrs. Lee       | Mrs. Walker    |
++--------------+----------------+----------------+----------------+--------------------+----------------+--------------------+---------------+----------------+----------------+
+| Friday       | English        | History        | Math           | Computer Science   | Math           | Computer Science   | RECESS        | Science        | Social Studies |
+|              | Mr. Davis      | Mrs. Anderson  | Mr. Smith      | Mrs. Hall          | Mr. Smith      | Mrs. Hall          |               | Mrs. Johnson   | Mrs. Hill      |
++--------------+----------------+----------------+----------------+--------------------+----------------+--------------------+---------------+----------------+----------------+
+| Saturday     | History        | English        | Science        | Spanish            | Science        | Spanish            | RECESS        | History        | Biology        |
+|              | Mrs. Anderson  | Mr. Davis      | Mrs. Johnson   | Mrs. Walker        | Mrs. Johnson   | Mrs. Walker        |               | Mrs. Anderson  | Mr. Clark      |
++--------------+----------------+----------------+----------------+--------------------+----------------+--------------------+---------------+----------------+----------------+
+
+
+================================================================================
+Grade 3 - Section Grade 3.C
+================================================================================
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+------------------+
+| Day/Period   | P1                 | P2                 | P3                 | P4             | P5                 | P6             | RECESS        | P7                 | P8               |
+|              | 07:30-08:05        | 08:05-08:40        | 08:40-09:15        | 09:15-09:50    | 09:50-10:25        | 10:25-11:00    | 11:00-11:30   | 11:30-12:05        | 12:05-12:40      |
++==============+====================+====================+====================+================+====================+================+===============+====================+==================+
+| Monday       | Art                | Physical Education | English            | Social Studies | English            | Social Studies | RECESS        | Math               | Computer Science |
+|              | Mrs. Martinez      | Mrs. Garcia        | Mr. Davis          | Mrs. Hill      | Mr. Davis          | Mrs. Hill      |               | Mr. Smith          | Mrs. Hall        |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+------------------+
+| Tuesday      | Physical Education | Art                | History            | Geography      | Art                | Music          | RECESS        | Physical Education | Geography        |
+|              | Mrs. Garcia        | Mrs. Martinez      | Mrs. Anderson      | Mr. Wilson     | Mrs. Martinez      | Mr. Thompson   |               | Mrs. Garcia        | Mr. Wilson       |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+------------------+
+| Wednesday    | Physics            | Biology            | Art                | Music          | History            | Geography      | RECESS        | English            | Chemistry        |
+|              | Mr. White          | Mr. Clark          | Mrs. Martinez      | Mr. Thompson   | Mrs. Anderson      | Mr. Wilson     |               | Mr. Davis          | Mrs. Lee         |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+------------------+
+| Thursday     | Biology            | Physics            | Physical Education | Literature     | Physics            | Literature     | RECESS        | Art                | Math             |
+|              | Mr. Clark          | Mr. White          | Mrs. Garcia        | Mr. Lewis      | Mr. White          | Mr. Lewis      |               | Mrs. Martinez      | Mr. Smith        |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+------------------+
+| Friday       | Computer Science   | Spanish            | Physics            | Chemistry      | Physical Education | Chemistry      | RECESS        | Biology            | Music            |
+|              | Mrs. Hall          | Mrs. Walker        | Mr. White          | Mrs. Lee       | Mrs. Garcia        | Mrs. Lee       |               | Mr. Clark          | Mr. Thompson     |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+------------------+
+| Saturday     | Spanish            | Computer Science   | Biology            | Math           | Computer Science   | Math           | RECESS        | Physics            | Social Studies   |
+|              | Mrs. Walker        | Mrs. Hall          | Mr. Clark          | Mr. Smith      | Mrs. Hall          | Mr. Smith      |               | Mr. White          | Mr. Young        |
++--------------+--------------------+--------------------+--------------------+----------------+--------------------+----------------+---------------+--------------------+------------------+
+
+
+================================================================================
+Grade 4 - Section Grade 4.A
+================================================================================
++--------------+----------------+----------------+------------------+----------------+----------------+----------------+---------------+------------------+---------------+
+| Day/Period   | P1             | P2             | P3               | P4             | P5             | P6             | RECESS        | P7               | P8            |
+|              | 07:30-08:05    | 08:05-08:40    | 08:40-09:15      | 09:15-09:50    | 09:50-10:25    | 10:25-11:00    | 11:00-11:30   | 11:30-12:05      | 12:05-12:40   |
++==============+================+================+==================+================+================+================+===============+==================+===============+
+| Monday       | Social Studies | Math           | Computer Science | Social Studies | Biology        | English        | RECESS        | Spanish          | English       |
+|              | Mrs. Hill      | Mr. Smith      | Mrs. Hall        | Mr. Young      | Mr. Clark      | Mr. Davis      |               | Mrs. Walker      | Mr. Davis     |
++--------------+----------------+----------------+------------------+----------------+----------------+----------------+---------------+------------------+---------------+
+| Tuesday      | Math           | Social Studies | Spanish          | English        | Social Studies | History        | RECESS        | Computer Science | Literature    |
+|              | Mr. Smith      | Mrs. Hill      | Mrs. Walker      | Mr. Davis      | Mrs. Hill      | Mrs. Anderson  |               | Mrs. Hall        | Mr. Lewis     |
++--------------+----------------+----------------+------------------+----------------+----------------+----------------+---------------+------------------+---------------+
+| Wednesday    | Science        | English        | Social Studies   | Science        | Spanish        | Social Studies | RECESS        | Geography        | Physics       |
+|              | Mrs. Johnson   | Mr. Davis      | Mrs. Hill        | Mrs. Johnson   | Mrs. Walker    | Mr. Young      |               | Mr. Wilson       | Mr. White     |
++--------------+----------------+----------------+------------------+----------------+----------------+----------------+---------------+------------------+---------------+
+| Thursday     | English        | Science        | Geography        | Art            | Music          | Art            | RECESS        | Literature       | Science       |
+|              | Mr. Davis      | Mrs. Johnson   | Mr. Wilson       | Mrs. Martinez  | Mr. Thompson   | Mrs. Martinez  |               | Mr. Lewis        | Mrs. Johnson  |
++--------------+----------------+----------------+------------------+----------------+----------------+----------------+---------------+------------------+---------------+
+| Friday       | History        | Art            | Music            | History        | Geography      | Science        | RECESS        | Chemistry        | Art           |
+|              | Mrs. Anderson  | Mrs. Martinez  | Mr. Thompson     | Mrs. Anderson  | Mr. Wilson     | Mrs. Johnson   |               | Mrs. Lee         | Mrs. Martinez |
++--------------+----------------+----------------+------------------+----------------+----------------+----------------+---------------+------------------+---------------+
+| Saturday     | Art            | History        | Literature       | Physics        | Literature     | Physics        | RECESS        | Music            | History       |
+|              | Mrs. Martinez  | Mrs. Anderson  | Mr. Lewis        | Mr. White      | Mr. Lewis      | Mr. White      |               | Mr. Thompson     | Mrs. Anderson |
++--------------+----------------+----------------+------------------+----------------+----------------+----------------+---------------+------------------+---------------+
+
+
+================================================================================
+Grade 4 - Section Grade 4.B
+================================================================================
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+--------------------+------------------+
+| Day/Period   | P1                 | P2                 | P3             | P4                 | P5             | P6                 | RECESS        | P7                 | P8               |
+|              | 07:30-08:05        | 08:05-08:40        | 08:40-09:15    | 09:15-09:50        | 09:50-10:25    | 10:25-11:00        | 11:00-11:30   | 11:30-12:05        | 12:05-12:40      |
++==============+====================+====================+================+====================+================+====================+===============+====================+==================+
+| Monday       | Physical Education | Physics            | Chemistry      | Physical Education | Chemistry      | Computer Science   | RECESS        | Science            | Music            |
+|              | Mrs. Garcia        | Mr. White          | Mrs. Lee       | Mrs. Garcia        | Mrs. Lee       | Mrs. Hall          |               | Mrs. Johnson       | Mrs. Garcia      |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+--------------------+------------------+
+| Tuesday      | Physics            | Physical Education | English        | Computer Science   | Math           | Spanish            | RECESS        | History            | Biology          |
+|              | Mr. White          | Mrs. Garcia        | Mr. Davis      | Mrs. Hall          | Mr. Smith      | Mrs. Walker        |               | Mrs. Anderson      | Mr. Clark        |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+--------------------+------------------+
+| Wednesday    | Biology            | Computer Science   | Social Studies | Biology            | Social Studies | Physical Education | RECESS        | Math               | Computer Science |
+|              | Mr. Clark          | Mrs. Hall          | Mr. Young      | Mr. Clark          | Mr. Young      | Mrs. Garcia        |               | Mr. Smith          | Mrs. Hall        |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+--------------------+------------------+
+| Thursday     | Computer Science   | Biology            | Math           | Social Studies     | English        | Social Studies     | RECESS        | English            | Geography        |
+|              | Mrs. Hall          | Mr. Clark          | Mr. Smith      | Mrs. Hill          | Mr. Davis      | Mrs. Hill          |               | Mr. Davis          | Mr. Wilson       |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+--------------------+------------------+
+| Friday       | Spanish            | Social Studies     | Science        | Spanish            | Science        | Biology            | RECESS        | Physical Education | Literature       |
+|              | Mrs. Walker        | Mrs. Hill          | Mrs. Johnson   | Mrs. Walker        | Mrs. Johnson   | Mr. Clark          |               | Mrs. Garcia        | Mrs. Walker      |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+--------------------+------------------+
+| Saturday     | Social Studies     | Spanish            | Physics        | Music              | Art            | Music              | RECESS        | Art                | Chemistry        |
+|              | Mrs. Hill          | Mrs. Walker        | Mr. White      | Mr. Thompson       | Mrs. Martinez  | Mr. Thompson       |               | Mrs. Martinez      | Mrs. Lee         |
++--------------+--------------------+--------------------+----------------+--------------------+----------------+--------------------+---------------+--------------------+------------------+
+
+
+================================================================================
+Grade 4 - Section Grade 4.C
+================================================================================
++--------------+----------------+----------------+--------------------+----------------+--------------------+----------------+---------------+------------------+---------------+
+| Day/Period   | P1             | P2             | P3                 | P4             | P5                 | P6             | RECESS        | P7               | P8            |
+|              | 07:30-08:05    | 08:05-08:40    | 08:40-09:15        | 09:15-09:50    | 09:50-10:25        | 10:25-11:00    | 11:00-11:30   | 11:30-12:05      | 12:05-12:40   |
++==============+================+================+====================+================+====================+================+===============+==================+===============+
+| Monday       | Geography      | Music          | History            | Geography      | History            | Chemistry      | RECESS        | Social Studies   | Music         |
+|              | Mr. Wilson     | Mr. Thompson   | Mrs. Anderson      | Mr. Wilson     | Mrs. Anderson      | Mrs. Lee       |               | Mrs. Hill        | Mr. Thompson  |
++--------------+----------------+----------------+--------------------+----------------+--------------------+----------------+---------------+------------------+---------------+
+| Tuesday      | Music          | Chemistry      | Art                | Literature     | Physics            | Literature     | RECESS        | Physics          | Art           |
+|              | Mr. Thompson   | Mrs. Lee       | Mrs. Martinez      | Mr. Lewis      | Mr. White          | Mr. Lewis      |               | Mr. White        | Mrs. Martinez |
++--------------+----------------+----------------+--------------------+----------------+--------------------+----------------+---------------+------------------+---------------+
+| Wednesday    | Chemistry      | Literature     | Physical Education | Chemistry      | Physical Education | Science        | RECESS        | Spanish          | Literature    |
+|              | Mrs. Lee       | Mr. Lewis      | Mrs. Garcia        | Mrs. Lee       | Mrs. Garcia        | Mrs. Johnson   |               | Mrs. Walker      | Mr. Lewis     |
++--------------+----------------+----------------+--------------------+----------------+--------------------+----------------+---------------+------------------+---------------+
+| Thursday     | Literature     | Social Studies | Music              | Math           | Computer Science   | Social Studies | RECESS        | Biology          | History       |
+|              | Mr. Lewis      | Mr. Young      | Mr. Thompson       | Mr. Smith      | Mrs. Hall          | Mr. Young      |               | Mr. Clark        | Mrs. Anderson |
++--------------+----------------+----------------+--------------------+----------------+--------------------+----------------+---------------+------------------+---------------+
+| Friday       | Social Studies | Geography      | Biology            | Social Studies | Biology            | Geography      | RECESS        | Computer Science | English       |
+|              | Mr. Young      | Mr. Wilson     | Mr. Clark          | Mr. Young      | Mr. Clark          | Mr. Wilson     |               | Mrs. Hall        | Mr. Davis     |
++--------------+----------------+----------------+--------------------+----------------+--------------------+----------------+---------------+------------------+---------------+
+| Saturday     | Geography      | Music          | Computer Science   | English        | Social Studies     | Art            | RECESS        | Chemistry        | Science       |
+|              | Mr. Wilson     | Mr. Thompson   | Mrs. Hall          | Mr. Davis      | Mrs. Hill          | Mrs. Martinez  |               | Mrs. Lee         | Mrs. Johnson  |
++--------------+----------------+----------------+--------------------+----------------+--------------------+----------------+---------------+------------------+---------------+
+

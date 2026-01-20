@@ -1,0 +1,291 @@
+SCHOOL TIMETABLE
+==================================================
+
+Grade 1 - Section Grade 1.A
++--------------+---------------+----------------+----------------+--------------------+---------------+------------------+---------------+--------------------+------------------+
+| Day/Period   | P1            | P2             | P3             | P4                 | RECESS        | P5               | P6            | P7                 | P8               |
+|              | 07:30-08:05   | 08:05-08:40    | 08:40-09:15    | 09:15-09:50        | 09:50-10:20   | 10:20-10:55      | 10:55-11:30   | 11:30-12:05        | 12:05-12:40      |
++==============+===============+================+================+====================+===============+==================+===============+====================+==================+
+| Day 1        | Math          | English        | Social Studies | Music              | RECESS        | Social Studies   | History       | Geography          | Chemistry        |
+|              | Mr. Smith     | Mr. Davis      | Mr. Young      | Mr. Rodriguez      |               | Mrs. Thompson    | Mrs. Harris   | Mr. Martin         | Mrs. Lee         |
++--------------+---------------+----------------+----------------+--------------------+---------------+------------------+---------------+--------------------+------------------+
+| Day 2        | Math          | Chemistry      | Literature     | Physics            | RECESS        | Chemistry        | Art           | Spanish            | Biology          |
+|              | Mr. Smith     | Mrs. Lee       | Mrs. Harris    | Mr. White          |               | Mrs. Lee         | Mrs. Martinez | Mrs. King          | Mr. Clark        |
++--------------+---------------+----------------+----------------+--------------------+---------------+------------------+---------------+--------------------+------------------+
+| Day 3        | Math          | Art            | Chemistry      | English            | RECESS        | Computer Science | Physics       | Art                | English          |
+|              | Mr. Smith     | Mrs. Thompson  | Mrs. Taylor    | Mr. Davis          |               | Mr. Martin       | Mr. Brown     | Mrs. Thompson      | Mr. Moore        |
++--------------+---------------+----------------+----------------+--------------------+---------------+------------------+---------------+--------------------+------------------+
+| Day 4        | Math          | Social Studies | Chemistry      | Physical Education | RECESS        | Art              | Physics       | Physical Education | Social Studies   |
+|              | Mr. Smith     | Mrs. Hill      | Mrs. Lee       | Mrs. King          |               | Mrs. Thompson    | Mr. White     | Mrs. Garcia        | Mr. Young        |
++--------------+---------------+----------------+----------------+--------------------+---------------+------------------+---------------+--------------------+------------------+
+| Day 5        | Math          | Social Studies | Music          | Literature         | RECESS        | Social Studies   | English       | Geography          | Computer Science |
+|              | Mr. Smith     | Mrs. Hill      | Mr. Rodriguez  | Mr. Lewis          |               | Mrs. Thompson    | Mr. Davis     | Mr. Wilson         | Mr. Martin       |
++--------------+---------------+----------------+----------------+--------------------+---------------+------------------+---------------+--------------------+------------------+
+| Day 6        | Math          | History        | Biology        | Chemistry          | RECESS        | Art              | Music         | English            | Geography        |
+|              | Mr. Smith     | Mrs. Anderson  | Mr. Clark      | Mrs. Lee           |               | Mrs. Thompson    | Mr. Rodriguez | Mr. Moore          | Mr. Martin       |
++--------------+---------------+----------------+----------------+--------------------+---------------+------------------+---------------+--------------------+------------------+
+
+Grade 1 - Section Grade 1.B
++--------------+---------------+------------------+--------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day/Period   | P1            | P2               | P3                 | P4               | RECESS        | P5                 | P6               | P7                 | P8                 |
+|              | 07:30-08:05   | 08:05-08:40      | 08:40-09:15        | 09:15-09:50      | 09:50-10:20   | 10:20-10:55        | 10:55-11:30      | 11:30-12:05        | 12:05-12:40        |
++==============+===============+==================+====================+==================+===============+====================+==================+====================+====================+
+| Day 1        | Science       | English          | Physical Education | Computer Science | RECESS        | Music              | Biology          | Physics            | Social Studies     |
+|              | Mrs. Johnson  | Mr. Moore        | Mrs. Garcia        | Mrs. Hall        |               | Mr. Thompson       | Mr. Clark        | Mr. White          | Mrs. Hill          |
++--------------+---------------+------------------+--------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 2        | Science       | Computer Science | History            | English          | RECESS        | Music              | Chemistry        | Social Studies     | Biology            |
+|              | Mrs. Johnson  | Mrs. Hall        | Mrs. Anderson      | Mr. Davis        |               | Mr. Thompson       | Mrs. Taylor      | Mr. Rodriguez      | Mr. Moore          |
++--------------+---------------+------------------+--------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 3        | Science       | History          | Music              | Computer Science | RECESS        | Literature         | Physics          | Physical Education | Chemistry          |
+|              | Mrs. Johnson  | Mrs. Anderson    | Mr. Rodriguez      | Mrs. Hall        |               | Mr. Lewis          | Mr. White        | Mrs. King          | Mrs. Lee           |
++--------------+---------------+------------------+--------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 4        | Science       | Music            | History            | Biology          | RECESS        | History            | Literature       | Social Studies     | Math               |
+|              | Mrs. Johnson  | Mr. Thompson     | Mrs. Harris        | Mr. Clark        |               | Mrs. Anderson      | Mr. Lewis        | Mrs. Hill          | Mr. Brown          |
++--------------+---------------+------------------+--------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 5        | Science       | Chemistry        | Physics            | Computer Science | RECESS        | History            | Biology          | Chemistry          | Physical Education |
+|              | Mrs. Johnson  | Mrs. Lee         | Mr. Brown          | Mrs. Hall        |               | Mrs. Harris        | Mr. Moore        | Mrs. Taylor        | Mrs. King          |
++--------------+---------------+------------------+--------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 6        | Science       | English          | Social Studies     | Chemistry        | RECESS        | Physical Education | Computer Science | Spanish            | Social Studies     |
+|              | Mrs. Johnson  | Mr. Davis        | Mrs. Hill          | Mrs. Taylor      |               | Mrs. Garcia        | Mrs. Hall        | Mrs. Walker        | Mrs. Hill          |
++--------------+---------------+------------------+--------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+
+Grade 1 - Section Grade 1.C
++--------------+---------------+--------------------+--------------------+---------------+---------------+------------------+------------------+------------------+--------------------+
+| Day/Period   | P1            | P2                 | P3                 | P4            | RECESS        | P5               | P6               | P7               | P8                 |
+|              | 07:30-08:05   | 08:05-08:40        | 08:40-09:15        | 09:15-09:50   | 09:50-10:20   | 10:20-10:55      | 10:55-11:30      | 11:30-12:05      | 12:05-12:40        |
++==============+===============+====================+====================+===============+===============+==================+==================+==================+====================+
+| Day 1        | English       | Spanish            | Art                | History       | RECESS        | Geography        | Math             | Literature       | Science            |
+|              | Mr. Davis     | Mrs. Walker        | Mrs. Martinez      | Mrs. Anderson |               | Mr. Wilson       | Mr. Brown        | Mr. Lewis        | Mrs. Taylor        |
++--------------+---------------+--------------------+--------------------+---------------+---------------+------------------+------------------+------------------+--------------------+
+| Day 2        | English       | Social Studies     | Spanish            | Literature    | RECESS        | Art              | Computer Science | Geography        | Physical Education |
+|              | Mr. Davis     | Mrs. Hill          | Mrs. Walker        | Mr. Lewis     |               | Mrs. Thompson    | Mr. Martin       | Mr. Wilson       | Mrs. Garcia        |
++--------------+---------------+--------------------+--------------------+---------------+---------------+------------------+------------------+------------------+--------------------+
+| Day 3        | English       | Music              | History            | Geography     | RECESS        | Biology          | Spanish          | Art              | Physical Education |
+|              | Mr. Davis     | Mr. Thompson       | Mrs. Harris        | Mr. Wilson    |               | Mr. Clark        | Mrs. Walker      | Mrs. Martinez    | Mrs. Garcia        |
++--------------+---------------+--------------------+--------------------+---------------+---------------+------------------+------------------+------------------+--------------------+
+| Day 4        | English       | Art                | Music              | Science       | RECESS        | Computer Science | Spanish          | Computer Science | Biology            |
+|              | Mr. Davis     | Mrs. Martinez      | Mr. Rodriguez      | Mrs. Taylor   |               | Mrs. Hall        | Mrs. Walker      | Mr. Martin       | Mr. Moore          |
++--------------+---------------+--------------------+--------------------+---------------+---------------+------------------+------------------+------------------+--------------------+
+| Day 5        | English       | Spanish            | Physical Education | Biology       | RECESS        | Physics          | Social Studies   | Music            | History            |
+|              | Mr. Davis     | Mrs. Walker        | Mrs. Garcia        | Mr. Clark     |               | Mr. White        | Mr. Young        | Mr. Thompson     | Mrs. Anderson      |
++--------------+---------------+--------------------+--------------------+---------------+---------------+------------------+------------------+------------------+--------------------+
+| Day 6        | English       | Physical Education | Math               | Geography     | RECESS        | Social Studies   | Physics          | Music            | Literature         |
+|              | Mr. Davis     | Mrs. King          | Mr. Brown          | Mr. Wilson    |               | Mr. Young        | Mr. White        | Mr. Thompson     | Mr. Lewis          |
++--------------+---------------+--------------------+--------------------+---------------+---------------+------------------+------------------+------------------+--------------------+
+
+Grade 2 - Section Grade 2.A
++--------------+---------------+------------------+------------------+----------------+---------------+---------------+--------------------+---------------+----------------+
+| Day/Period   | P1            | P2               | P3               | P4             | RECESS        | P5            | P6                 | P7            | P8             |
+|              | 07:30-08:05   | 08:05-08:40      | 08:40-09:15      | 09:15-09:50    | 09:50-10:20   | 10:20-10:55   | 10:55-11:30        | 11:30-12:05   | 12:05-12:40    |
++==============+===============+==================+==================+================+===============+===============+====================+===============+================+
+| Day 1        | History       | Computer Science | Literature       | Science        | RECESS        | Music         | English            | Chemistry     | Social Studies |
+|              | Mrs. Anderson | Mr. Martin       | Mrs. Harris      | Mrs. Johnson   |               | Mr. Rodriguez | Mr. Davis          | Mrs. Lee      | Mrs. Thompson  |
++--------------+---------------+------------------+------------------+----------------+---------------+---------------+--------------------+---------------+----------------+
+| Day 2        | History       | Art              | Geography        | Biology        | RECESS        | Music         | Art                | Science       | English        |
+|              | Mrs. Anderson | Mrs. Martinez    | Mr. Wilson       | Mr. Clark      |               | Mr. Rodriguez | Mrs. Thompson      | Mrs. Johnson  | Mr. Davis      |
++--------------+---------------+------------------+------------------+----------------+---------------+---------------+--------------------+---------------+----------------+
+| Day 3        | History       | Math             | Physics          | Literature     | RECESS        | Biology       | Science            | Spanish       | Music          |
+|              | Mrs. Anderson | Mr. Smith        | Mr. Brown        | Mrs. Harris    |               | Mr. Moore     | Mrs. Taylor        | Mrs. Walker   | Mr. Rodriguez  |
++--------------+---------------+------------------+------------------+----------------+---------------+---------------+--------------------+---------------+----------------+
+| Day 4        | History       | Music            | Chemistry        | English        | RECESS        | Geography     | Chemistry          | Science       | Social Studies |
+|              | Mrs. Anderson | Mr. Rodriguez    | Mrs. Taylor      | Mr. Moore      |               | Mr. Wilson    | Mrs. Lee           | Mrs. Johnson  | Mrs. Thompson  |
++--------------+---------------+------------------+------------------+----------------+---------------+---------------+--------------------+---------------+----------------+
+| Day 5        | History       | Social Studies   | Computer Science | English        | RECESS        | Physics       | Social Studies     | Math          | Art            |
+|              | Mrs. Anderson | Mr. Young        | Mr. Martin       | Mr. Davis      |               | Mr. Brown     | Mrs. Thompson      | Mr. Smith     | Mrs. Martinez  |
++--------------+---------------+------------------+------------------+----------------+---------------+---------------+--------------------+---------------+----------------+
+| Day 6        | History       | Social Studies   | Geography        | Social Studies | RECESS        | Math          | Physical Education | Chemistry     | English        |
+|              | Mrs. Anderson | Mr. Young        | Mr. Martin       | Mrs. Hill      |               | Mr. Brown     | Mrs. King          | Mrs. Taylor   | Mr. Davis      |
++--------------+---------------+------------------+------------------+----------------+---------------+---------------+--------------------+---------------+----------------+
+
+Grade 2 - Section Grade 2.B
++--------------+---------------+--------------------+------------------+------------------+---------------+------------------+--------------------+------------------+--------------------+
+| Day/Period   | P1            | P2                 | P3               | P4               | RECESS        | P5               | P6                 | P7               | P8                 |
+|              | 07:30-08:05   | 08:05-08:40        | 08:40-09:15      | 09:15-09:50      | 09:50-10:20   | 10:20-10:55      | 10:55-11:30        | 11:30-12:05      | 12:05-12:40        |
++==============+===============+====================+==================+==================+===============+==================+====================+==================+====================+
+| Day 1        | Geography     | Physical Education | Computer Science | Science          | RECESS        | Physics          | Biology            | Social Studies   | Physical Education |
+|              | Mr. Wilson    | Mrs. Garcia        | Mrs. Hall        | Mrs. Taylor      |               | Mr. Brown        | Mr. Moore          | Mr. Young        | Mrs. King          |
++--------------+---------------+--------------------+------------------+------------------+---------------+------------------+--------------------+------------------+--------------------+
+| Day 2        | Geography     | Physical Education | Chemistry        | Biology          | RECESS        | Computer Science | Literature         | Social Studies   | Math               |
+|              | Mr. Wilson    | Mrs. King          | Mrs. Taylor      | Mr. Moore        |               | Mrs. Hall        | Mrs. Harris        | Mr. Young        | Mr. Brown          |
++--------------+---------------+--------------------+------------------+------------------+---------------+------------------+--------------------+------------------+--------------------+
+| Day 3        | Geography     | Literature         | Biology          | Social Studies   | RECESS        | Computer Science | Music              | Computer Science | Physics            |
+|              | Mr. Wilson    | Mr. Lewis          | Mr. Clark        | Mrs. Hill        |               | Mrs. Hall        | Mr. Thompson       | Mr. Martin       | Mr. White          |
++--------------+---------------+--------------------+------------------+------------------+---------------+------------------+--------------------+------------------+--------------------+
+| Day 4        | Geography     | Physical Education | Physics          | Computer Science | RECESS        | Physics          | Math               | Computer Science | History            |
+|              | Mr. Wilson    | Mrs. King          | Mr. White        | Mr. Martin       |               | Mr. Brown        | Mr. Smith          | Mrs. Hall        | Mrs. Harris        |
++--------------+---------------+--------------------+------------------+------------------+---------------+------------------+--------------------+------------------+--------------------+
+| Day 5        | Geography     | Physical Education | Chemistry        | Physics          | RECESS        | English          | Chemistry          | Spanish          | Social Studies     |
+|              | Mr. Wilson    | Mrs. Garcia        | Mrs. Taylor      | Mr. White        |               | Mr. Moore        | Mrs. Lee           | Mrs. King        | Mr. Rodriguez      |
++--------------+---------------+--------------------+------------------+------------------+---------------+------------------+--------------------+------------------+--------------------+
+| Day 6        | Geography     | Art                | Social Studies   | Music            | RECESS        | Literature       | Physical Education | Science          | Spanish            |
+|              | Mr. Wilson    | Mrs. Martinez      | Mr. Young        | Mr. Rodriguez    |               | Mr. Lewis        | Mrs. Garcia        | Mrs. Johnson     | Mrs. Walker        |
++--------------+---------------+--------------------+------------------+------------------+---------------+------------------+--------------------+------------------+--------------------+
+
+Grade 2 - Section Grade 2.C
++--------------+---------------+--------------------+------------------+----------------+---------------+----------------+----------------+----------------+------------------+
+| Day/Period   | P1            | P2                 | P3               | P4             | RECESS        | P5             | P6             | P7             | P8               |
+|              | 07:30-08:05   | 08:05-08:40        | 08:40-09:15      | 09:15-09:50    | 09:50-10:20   | 10:20-10:55    | 10:55-11:30    | 11:30-12:05    | 12:05-12:40      |
++==============+===============+====================+==================+================+===============+================+================+================+==================+
+| Day 1        | Art           | Biology            | Music            | Physics        | RECESS        | Social Studies | Spanish        | Math           | Literature       |
+|              | Mrs. Martinez | Mr. Clark          | Mr. Thompson     | Mr. White      |               | Mrs. Hill      | Mrs. Walker    | Mr. Smith      | Mr. Lewis        |
++--------------+---------------+--------------------+------------------+----------------+---------------+----------------+----------------+----------------+------------------+
+| Day 2        | Art           | Math               | Geography        | Social Studies | RECESS        | Spanish        | Music          | Math           | Literature       |
+|              | Mrs. Martinez | Mr. Smith          | Mr. Martin       | Mrs. Hill      |               | Mrs. Walker    | Mr. Thompson   | Mr. Brown      | Mr. Lewis        |
++--------------+---------------+--------------------+------------------+----------------+---------------+----------------+----------------+----------------+------------------+
+| Day 3        | Art           | Physical Education | Science          | Math           | RECESS        | Chemistry      | Social Studies | English        | Social Studies   |
+|              | Mrs. Martinez | Mrs. King          | Mrs. Johnson     | Mr. Smith      |               | Mrs. Lee       | Mr. Young      | Mr. Davis      | Mrs. Hill        |
++--------------+---------------+--------------------+------------------+----------------+---------------+----------------+----------------+----------------+------------------+
+| Day 4        | Art           | Physical Education | Literature       | Spanish        | RECESS        | Music          | English        | Social Studies | Biology          |
+|              | Mrs. Martinez | Mrs. Garcia        | Mr. Lewis        | Mrs. Walker    |               | Mr. Thompson   | Mr. Davis      | Mr. Young      | Mr. Clark        |
++--------------+---------------+--------------------+------------------+----------------+---------------+----------------+----------------+----------------+------------------+
+| Day 5        | Art           | Science            | Literature       | Social Studies | RECESS        | Music          | Spanish        | Biology        | Computer Science |
+|              | Mrs. Martinez | Mrs. Johnson       | Mr. Lewis        | Mr. Young      |               | Mr. Thompson   | Mrs. Walker    | Mr. Clark      | Mrs. Hall        |
++--------------+---------------+--------------------+------------------+----------------+---------------+----------------+----------------+----------------+------------------+
+| Day 6        | Art           | Physics            | Computer Science | Biology        | RECESS        | Music          | Math           | Chemistry      | Biology          |
+|              | Mrs. Martinez | Mr. White          | Mrs. Hall        | Mr. Moore      |               | Mr. Thompson   | Mr. Smith      | Mrs. Lee       | Mr. Clark        |
++--------------+---------------+--------------------+------------------+----------------+---------------+----------------+----------------+----------------+------------------+
+
+Grade 3 - Section Grade 3.A
++--------------+---------------+--------------------+------------------+------------------+---------------+----------------+---------------+--------------------+------------------+
+| Day/Period   | P1            | P2                 | P3               | P4               | RECESS        | P5             | P6            | P7                 | P8               |
+|              | 07:30-08:05   | 08:05-08:40        | 08:40-09:15      | 09:15-09:50      | 09:50-10:20   | 10:20-10:55    | 10:55-11:30   | 11:30-12:05        | 12:05-12:40      |
++==============+===============+====================+==================+==================+===============+================+===============+====================+==================+
+| Day 1        | Music         | Social Studies     | Geography        | Literature       | RECESS        | Social Studies | Geography     | Art                | Science          |
+|              | Mr. Thompson  | Mrs. Hill          | Mr. Martin       | Mr. Lewis        |               | Mr. Young      | Mr. Martin    | Mrs. Thompson      | Mrs. Johnson     |
++--------------+---------------+--------------------+------------------+------------------+---------------+----------------+---------------+--------------------+------------------+
+| Day 2        | Music         | Geography          | Physics          | Computer Science | RECESS        | Science        | Physics       | Physical Education | Social Studies   |
+|              | Mr. Thompson  | Mr. Wilson         | Mr. White        | Mr. Martin       |               | Mrs. Johnson   | Mr. White     | Mrs. Garcia        | Mr. Rodriguez    |
++--------------+---------------+--------------------+------------------+------------------+---------------+----------------+---------------+--------------------+------------------+
+| Day 3        | Music         | Chemistry          | Art              | Literature       | RECESS        | Science        | Art           | Physical Education | Spanish          |
+|              | Mr. Thompson  | Mrs. Taylor        | Mrs. Martinez    | Mr. Lewis        |               | Mrs. Taylor    | Mrs. Martinez | Mrs. Garcia        | Mrs. King        |
++--------------+---------------+--------------------+------------------+------------------+---------------+----------------+---------------+--------------------+------------------+
+| Day 4        | Music         | Geography          | Spanish          | Math             | RECESS        | Chemistry      | History       | Biology            | Computer Science |
+|              | Mr. Thompson  | Mr. Martin         | Mrs. King        | Mr. Smith        |               | Mrs. Lee       | Mrs. Harris   | Mr. Moore          | Mr. Martin       |
++--------------+---------------+--------------------+------------------+------------------+---------------+----------------+---------------+--------------------+------------------+
+| Day 5        | Music         | Physical Education | Computer Science | Literature       | RECESS        | Chemistry      | Geography     | Social Studies     | Math             |
+|              | Mr. Thompson  | Mrs. King          | Mrs. Hall        | Mrs. Harris      |               | Mrs. Lee       | Mr. Martin    | Mrs. Hill          | Mr. Brown        |
++--------------+---------------+--------------------+------------------+------------------+---------------+----------------+---------------+--------------------+------------------+
+| Day 6        | Music         | Social Studies     | Math             | Social Studies   | RECESS        | Literature     | Biology       | Spanish            | English          |
+|              | Mr. Thompson  | Mrs. Hill          | Mr. Smith        | Mr. Young        |               | Mrs. Harris    | Mr. Clark     | Mrs. King          | Mr. Moore        |
++--------------+---------------+--------------------+------------------+------------------+---------------+----------------+---------------+--------------------+------------------+
+
+Grade 3 - Section Grade 3.B
++--------------+--------------------+----------------+---------------+----------------+---------------+---------------+----------------+---------------+----------------+
+| Day/Period   | P1                 | P2             | P3            | P4             | RECESS        | P5            | P6             | P7            | P8             |
+|              | 07:30-08:05        | 08:05-08:40    | 08:40-09:15   | 09:15-09:50    | 09:50-10:20   | 10:20-10:55   | 10:55-11:30    | 11:30-12:05   | 12:05-12:40    |
++==============+====================+================+===============+================+===============+===============+================+===============+================+
+| Day 1        | Physical Education | Physics        | Biology       | Social Studies | RECESS        | Literature    | Chemistry      | Geography     | Art            |
+|              | Mrs. Garcia        | Mr. Brown      | Mr. Moore     | Mrs. Hill      |               | Mrs. Harris   | Mrs. Lee       | Mr. Wilson    | Mrs. Martinez  |
++--------------+--------------------+----------------+---------------+----------------+---------------+---------------+----------------+---------------+----------------+
+| Day 2        | Physical Education | Biology        | Art           | Spanish        | RECESS        | History       | Social Studies | Chemistry     | Math           |
+|              | Mrs. Garcia        | Mr. Moore      | Mrs. Thompson | Mrs. King      |               | Mrs. Anderson | Mr. Young      | Mrs. Lee      | Mr. Smith      |
++--------------+--------------------+----------------+---------------+----------------+---------------+---------------+----------------+---------------+----------------+
+| Day 3        | Physical Education | Social Studies | Geography     | Social Studies | RECESS        | Geography     | English        | Biology       | Physics        |
+|              | Mrs. Garcia        | Mr. Young      | Mr. Martin    | Mr. Rodriguez  |               | Mr. Wilson    | Mr. Davis      | Mr. Moore     | Mr. Brown      |
++--------------+--------------------+----------------+---------------+----------------+---------------+---------------+----------------+---------------+----------------+
+| Day 4        | Physical Education | Biology        | Art           | Social Studies | RECESS        | Spanish       | Art            | History       | Social Studies |
+|              | Mrs. Garcia        | Mr. Clark      | Mrs. Thompson | Mr. Young      |               | Mrs. Walker   | Mrs. Martinez  | Mrs. Anderson | Mr. Rodriguez  |
++--------------+--------------------+----------------+---------------+----------------+---------------+---------------+----------------+---------------+----------------+
+| Day 5        | Physical Education | Geography      | English       | Art            | RECESS        | Spanish       | Literature     | Biology       | Science        |
+|              | Mrs. Garcia        | Mr. Wilson     | Mr. Davis     | Mrs. Martinez  |               | Mrs. Walker   | Mr. Lewis      | Mr. Moore     | Mrs. Johnson   |
++--------------+--------------------+----------------+---------------+----------------+---------------+---------------+----------------+---------------+----------------+
+| Day 6        | Physical Education | Chemistry      | Geography     | Math           | RECESS        | History       | Science        | Literature    | Art            |
+|              | Mrs. Garcia        | Mrs. Lee       | Mr. Wilson    | Mr. Brown      |               | Mrs. Anderson | Mrs. Taylor    | Mr. Lewis     | Mrs. Martinez  |
++--------------+--------------------+----------------+---------------+----------------+---------------+---------------+----------------+---------------+----------------+
+
+Grade 3 - Section Grade 3.C
++--------------+---------------+----------------+----------------+----------------+---------------+----------------+---------------+---------------+---------------+
+| Day/Period   | P1            | P2             | P3             | P4             | RECESS        | P5             | P6            | P7            | P8            |
+|              | 07:30-08:05   | 08:05-08:40    | 08:40-09:15    | 09:15-09:50    | 09:50-10:20   | 10:20-10:55    | 10:55-11:30   | 11:30-12:05   | 12:05-12:40   |
++==============+===============+================+================+================+===============+================+===============+===============+===============+
+| Day 1        | Physics       | Social Studies | Math           | Spanish        | RECESS        | History        | Science       | Spanish       | English       |
+|              | Mr. White     | Mr. Rodriguez  | Mr. Smith      | Mrs. King      |               | Mrs. Anderson  | Mrs. Taylor   | Mrs. Walker   | Mr. Davis     |
++--------------+---------------+----------------+----------------+----------------+---------------+----------------+---------------+---------------+---------------+
+| Day 2        | Physics       | Math           | Social Studies | History        | RECESS        | Literature     | English       | Spanish       | Science       |
+|              | Mr. White     | Mr. Brown      | Mrs. Hill      | Mrs. Harris    |               | Mr. Lewis      | Mr. Davis     | Mrs. Walker   | Mrs. Taylor   |
++--------------+---------------+----------------+----------------+----------------+---------------+----------------+---------------+---------------+---------------+
+| Day 3        | Physics       | Chemistry      | Spanish        | Science        | RECESS        | Social Studies | History       | Literature    | Art           |
+|              | Mr. White     | Mrs. Lee       | Mrs. Walker    | Mrs. Johnson   |               | Mrs. Hill      | Mrs. Anderson | Mrs. Harris   | Mrs. Thompson |
++--------------+---------------+----------------+----------------+----------------+---------------+----------------+---------------+---------------+---------------+
+| Day 4        | Physics       | English        | Geography      | Social Studies | RECESS        | Literature     | Math          | Chemistry     | Science       |
+|              | Mr. White     | Mr. Davis      | Mr. Wilson     | Mrs. Hill      |               | Mr. Lewis      | Mr. Brown     | Mrs. Taylor   | Mrs. Johnson  |
++--------------+---------------+----------------+----------------+----------------+---------------+----------------+---------------+---------------+---------------+
+| Day 5        | Physics       | Social Studies | Math           | Social Studies | RECESS        | Chemistry      | Biology       | History       | Literature    |
+|              | Mr. White     | Mrs. Thompson  | Mr. Smith      | Mr. Rodriguez  |               | Mrs. Taylor    | Mr. Clark     | Mrs. Anderson | Mrs. Harris   |
++--------------+---------------+----------------+----------------+----------------+---------------+----------------+---------------+---------------+---------------+
+| Day 6        | Physics       | Art            | Spanish        | Geography      | RECESS        | Science        | English       | History       | Art           |
+|              | Mr. White     | Mrs. Thompson  | Mrs. Walker    | Mr. Martin     |               | Mrs. Johnson   | Mr. Davis     | Mrs. Harris   | Mrs. Thompson |
++--------------+---------------+----------------+----------------+----------------+---------------+----------------+---------------+---------------+---------------+
+
+Grade 4 - Section Grade 4.A
++--------------+---------------+---------------+----------------+--------------------+---------------+--------------------+------------------+------------------+--------------------+
+| Day/Period   | P1            | P2            | P3             | P4                 | RECESS        | P5                 | P6               | P7               | P8                 |
+|              | 07:30-08:05   | 08:05-08:40   | 08:40-09:15    | 09:15-09:50        | 09:50-10:20   | 10:20-10:55        | 10:55-11:30      | 11:30-12:05      | 12:05-12:40        |
++==============+===============+===============+================+====================+===============+====================+==================+==================+====================+
+| Day 1        | Chemistry     | Art           | Math           | Biology            | RECESS        | Physical Education | Physics          | Social Studies   | English            |
+|              | Mrs. Lee      | Mrs. Thompson | Mr. Brown      | Mr. Clark          |               | Mrs. King          | Mr. White        | Mr. Rodriguez    | Mr. Moore          |
++--------------+---------------+---------------+----------------+--------------------+---------------+--------------------+------------------+------------------+--------------------+
+| Day 2        | Chemistry     | Science       | Biology        | Art                | RECESS        | Math               | Computer Science | Biology          | Science            |
+|              | Mrs. Lee      | Mrs. Taylor   | Mr. Moore      | Mrs. Thompson      |               | Mr. Brown          | Mrs. Hall        | Mr. Clark        | Mrs. Johnson       |
++--------------+---------------+---------------+----------------+--------------------+---------------+--------------------+------------------+------------------+--------------------+
+| Day 3        | Chemistry     | Biology       | Spanish        | Geography          | RECESS        | Art                | History          | Physics          | Literature         |
+|              | Mrs. Lee      | Mr. Clark     | Mrs. King      | Mr. Martin         |               | Mrs. Thompson      | Mrs. Harris      | Mr. Brown        | Mr. Lewis          |
++--------------+---------------+---------------+----------------+--------------------+---------------+--------------------+------------------+------------------+--------------------+
+| Day 4        | Chemistry     | Biology       | English        | Physics            | RECESS        | Literature         | Spanish          | Music            | History            |
+|              | Mrs. Lee      | Mr. Moore     | Mr. Davis      | Mr. Brown          |               | Mrs. Harris        | Mrs. King        | Mr. Thompson     | Mrs. Anderson      |
++--------------+---------------+---------------+----------------+--------------------+---------------+--------------------+------------------+------------------+--------------------+
+| Day 5        | Chemistry     | Math          | Social Studies | Geography          | RECESS        | History            | Literature       | Social Studies   | English            |
+|              | Mrs. Lee      | Mr. Brown     | Mrs. Thompson  | Mr. Wilson         |               | Mrs. Anderson      | Mrs. Harris      | Mr. Young        | Mr. Davis          |
++--------------+---------------+---------------+----------------+--------------------+---------------+--------------------+------------------+------------------+--------------------+
+| Day 6        | Chemistry     | Math          | Social Studies | Physical Education | RECESS        | English            | Math             | Computer Science | Physical Education |
+|              | Mrs. Lee      | Mr. Smith     | Mr. Rodriguez  | Mrs. Garcia        |               | Mr. Moore          | Mr. Brown        | Mrs. Hall        | Mrs. King          |
++--------------+---------------+---------------+----------------+--------------------+---------------+--------------------+------------------+------------------+--------------------+
+
+Grade 4 - Section Grade 4.B
++--------------+---------------+--------------------+------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day/Period   | P1            | P2                 | P3               | P4               | RECESS        | P5                 | P6               | P7                 | P8                 |
+|              | 07:30-08:05   | 08:05-08:40        | 08:40-09:15      | 09:15-09:50      | 09:50-10:20   | 10:20-10:55        | 10:55-11:30      | 11:30-12:05        | 12:05-12:40        |
++==============+===============+====================+==================+==================+===============+====================+==================+====================+====================+
+| Day 1        | Biology       | Science            | History          | Geography        | RECESS        | Math               | Computer Science | Art                | Physical Education |
+|              | Mr. Clark     | Mrs. Johnson       | Mrs. Anderson    | Mr. Wilson       |               | Mr. Smith          | Mrs. Hall        | Mrs. Martinez      | Mrs. Garcia        |
++--------------+---------------+--------------------+------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 2        | Biology       | Physical Education | Social Studies   | Spanish          | RECESS        | History            | Social Studies   | Literature         | History            |
+|              | Mr. Clark     | Mrs. Garcia        | Mr. Rodriguez    | Mrs. Walker      |               | Mrs. Harris        | Mrs. Hill        | Mr. Lewis          | Mrs. Anderson      |
++--------------+---------------+--------------------+------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 3        | Biology       | Physics            | Computer Science | English          | RECESS        | Music              | Geography        | Social Studies     | Spanish            |
+|              | Mr. Clark     | Mr. White          | Mrs. Hall        | Mr. Moore        |               | Mr. Rodriguez      | Mr. Wilson       | Mrs. Hill          | Mrs. Walker        |
++--------------+---------------+--------------------+------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 4        | Biology       | Social Studies     | Computer Science | Science          | RECESS        | Chemistry          | Music            | Geography          | Physics            |
+|              | Mr. Clark     | Mrs. Thompson      | Mrs. Hall        | Mrs. Johnson     |               | Mrs. Taylor        | Mr. Rodriguez    | Mr. Wilson         | Mr. White          |
++--------------+---------------+--------------------+------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 5        | Biology       | Music              | Art              | Computer Science | RECESS        | Physical Education | Social Studies   | Physical Education | Social Studies     |
+|              | Mr. Clark     | Mr. Thompson       | Mrs. Martinez    | Mr. Martin       |               | Mrs. King          | Mr. Rodriguez    | Mrs. Garcia        | Mrs. Hill          |
++--------------+---------------+--------------------+------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+| Day 6        | Biology       | Geography          | Music            | Spanish          | RECESS        | Art                | History          | Physics            | History            |
+|              | Mr. Clark     | Mr. Wilson         | Mr. Thompson     | Mrs. Walker      |               | Mrs. Martinez      | Mrs. Harris      | Mr. White          | Mrs. Anderson      |
++--------------+---------------+--------------------+------------------+------------------+---------------+--------------------+------------------+--------------------+--------------------+
+
+Grade 4 - Section Grade 4.C
++--------------+------------------+---------------+----------------+----------------+---------------+--------------------+----------------+---------------+----------------+
+| Day/Period   | P1               | P2            | P3             | P4             | RECESS        | P5                 | P6             | P7            | P8             |
+|              | 07:30-08:05      | 08:05-08:40   | 08:40-09:15    | 09:15-09:50    | 09:50-10:20   | 10:20-10:55        | 10:55-11:30    | 11:30-12:05   | 12:05-12:40    |
++==============+==================+===============+================+================+===============+====================+================+===============+================+
+| Day 1        | Computer Science | Science       | English        | Literature     | RECESS        | Spanish            | Literature     | Music         | Social Studies |
+|              | Mrs. Hall        | Mrs. Taylor   | Mr. Davis      | Mrs. Harris    |               | Mrs. Walker        | Mr. Lewis      | Mr. Thompson  | Mr. Young      |
++--------------+------------------+---------------+----------------+----------------+---------------+--------------------+----------------+---------------+----------------+
+| Day 2        | Computer Science | Geography     | English        | Social Studies | RECESS        | Art                | Math           | Music         | Spanish        |
+|              | Mrs. Hall        | Mr. Martin    | Mr. Davis      | Mr. Young      |               | Mrs. Martinez      | Mr. Smith      | Mr. Thompson  | Mrs. King      |
++--------------+------------------+---------------+----------------+----------------+---------------+--------------------+----------------+---------------+----------------+
+| Day 3        | Computer Science | English       | History        | Social Studies | RECESS        | Physical Education | Science        | Music         | Math           |
+|              | Mrs. Hall        | Mr. Davis     | Mrs. Anderson  | Mr. Young      |               | Mrs. Garcia        | Mrs. Johnson   | Mr. Thompson  | Mr. Smith      |
++--------------+------------------+---------------+----------------+----------------+---------------+--------------------+----------------+---------------+----------------+
+| Day 4        | Computer Science | Spanish       | Social Studies | Art            | RECESS        | Physical Education | Social Studies | Math          | Literature     |
+|              | Mrs. Hall        | Mrs. Walker   | Mr. Young      | Mrs. Martinez  |               | Mrs. Garcia        | Mrs. Hill      | Mr. Smith     | Mr. Lewis      |
++--------------+------------------+---------------+----------------+----------------+---------------+--------------------+----------------+---------------+----------------+
+| Day 5        | Computer Science | Chemistry     | Biology        | Spanish        | RECESS        | Science            | Physics        | Literature    | Math           |
+|              | Mrs. Hall        | Mrs. Taylor   | Mr. Moore      | Mrs. Walker    |               | Mrs. Johnson       | Mr. White      | Mr. Lewis     | Mr. Smith      |
++--------------+------------------+---------------+----------------+----------------+---------------+--------------------+----------------+---------------+----------------+
+| Day 6        | Computer Science | Science       | Literature     | Science        | RECESS        | English            | Social Studies | Geography     | Music          |
+|              | Mrs. Hall        | Mrs. Taylor   | Mr. Lewis      | Mrs. Johnson   |               | Mr. Davis          | Mrs. Thompson  | Mr. Martin    | Mr. Rodriguez  |
++--------------+------------------+---------------+----------------+----------------+---------------+--------------------+----------------+---------------+----------------+
+

@@ -1,0 +1,2514 @@
+[
+    {
+        "class_name": "Grade 1",
+        "sections": [
+            "Grade 1.A",
+            "Grade 1.B",
+            "Grade 1.C"
+        ],
+        "timetable": {
+            "Grade 1.A": [
+                [
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ]
+                ],
+                [
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ]
+                ],
+                [
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ]
+                ],
+                [
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ]
+                ],
+                [
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ]
+                ],
+                [
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ]
+                ]
+            ],
+            "Grade 1.B": [
+                [
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ]
+                ],
+                [
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ]
+                ],
+                [
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ]
+                ],
+                [
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ]
+                ],
+                [
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ]
+                ],
+                [
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ]
+                ]
+            ],
+            "Grade 1.C": [
+                [
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ]
+                ],
+                [
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ]
+                ],
+                [
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ]
+                ],
+                [
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ]
+                ],
+                [
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ]
+                ],
+                [
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "class_name": "Grade 2",
+        "sections": [
+            "Grade 2.A",
+            "Grade 2.B",
+            "Grade 2.C"
+        ],
+        "timetable": {
+            "Grade 2.A": [
+                [
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ]
+                ],
+                [
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ]
+                ],
+                [
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ]
+                ],
+                [
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ]
+                ],
+                [
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ]
+                ],
+                [
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ]
+                ]
+            ],
+            "Grade 2.B": [
+                [
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ]
+                ],
+                [
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ]
+                ],
+                [
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ]
+                ],
+                [
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ]
+                ],
+                [
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ]
+                ],
+                [
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ]
+                ]
+            ],
+            "Grade 2.C": [
+                [
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ]
+                ],
+                [
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ]
+                ],
+                [
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ]
+                ],
+                [
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ]
+                ],
+                [
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ]
+                ],
+                [
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "class_name": "Grade 3",
+        "sections": [
+            "Grade 3.A",
+            "Grade 3.B",
+            "Grade 3.C"
+        ],
+        "timetable": {
+            "Grade 3.A": [
+                [
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ]
+                ],
+                [
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ]
+                ],
+                [
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ]
+                ],
+                [
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ]
+                ],
+                [
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ]
+                ],
+                [
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ]
+                ]
+            ],
+            "Grade 3.B": [
+                [
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ]
+                ],
+                [
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ]
+                ],
+                [
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ]
+                ],
+                [
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ]
+                ],
+                [
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ]
+                ],
+                [
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ]
+                ]
+            ],
+            "Grade 3.C": [
+                [
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ]
+                ],
+                [
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ]
+                ],
+                [
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ]
+                ],
+                [
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ]
+                ],
+                [
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ]
+                ],
+                [
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "class_name": "Grade 4",
+        "sections": [
+            "Grade 4.A",
+            "Grade 4.B",
+            "Grade 4.C"
+        ],
+        "timetable": {
+            "Grade 4.A": [
+                [
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ]
+                ],
+                [
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ]
+                ],
+                [
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ]
+                ],
+                [
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ]
+                ],
+                [
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ]
+                ],
+                [
+                    [
+                        "Chemistry",
+                        "Mrs. Lee"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Brown"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ]
+                ]
+            ],
+            "Grade 4.B": [
+                [
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ]
+                ],
+                [
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ]
+                ],
+                [
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "English",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ]
+                ],
+                [
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ]
+                ],
+                [
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Computer Science",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. King"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Rodriguez"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ]
+                ],
+                [
+                    [
+                        "Biology",
+                        "Mr. Clark"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Wilson"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ]
+                ]
+            ],
+            "Grade 4.C": [
+                [
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Literature",
+                        "Mrs. Harris"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ]
+                ],
+                [
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. King"
+                    ]
+                ],
+                [
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "History",
+                        "Mrs. Anderson"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Thompson"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ]
+                ],
+                [
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mr. Young"
+                    ],
+                    [
+                        "Art",
+                        "Mrs. Martinez"
+                    ],
+                    [
+                        "Physical Education",
+                        "Mrs. Garcia"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Hill"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ]
+                ],
+                [
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Chemistry",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Biology",
+                        "Mr. Moore"
+                    ],
+                    [
+                        "Spanish",
+                        "Mrs. Walker"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "Physics",
+                        "Mr. White"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Math",
+                        "Mr. Smith"
+                    ]
+                ],
+                [
+                    [
+                        "Computer Science",
+                        "Mrs. Hall"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Taylor"
+                    ],
+                    [
+                        "Literature",
+                        "Mr. Lewis"
+                    ],
+                    [
+                        "Science",
+                        "Mrs. Johnson"
+                    ],
+                    [
+                        "English",
+                        "Mr. Davis"
+                    ],
+                    [
+                        "Social Studies",
+                        "Mrs. Thompson"
+                    ],
+                    [
+                        "Geography",
+                        "Mr. Martin"
+                    ],
+                    [
+                        "Music",
+                        "Mr. Rodriguez"
+                    ]
+                ]
+            ]
+        }
+    }
+]
